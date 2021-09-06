@@ -1,7 +1,7 @@
 # Mask_Classification
 # [개인회고] P-Stage 1 Image Classification
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cb5dcfe-656c-40e8-bc87-fe6c88d479cd/Untitled.png)
+![Untitled (18)](https://user-images.githubusercontent.com/30318926/132158191-e4307715-44d1-4e23-b149-224fbae42886.png)
 
 # 프로젝트의 목표
 
@@ -81,7 +81,7 @@
 - **Data Imbalance**가 심하기 때문에 일반 CrossEntropy 대신에 사용하였습니다.
 - weight는 ins_weight를 사용하였습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cec2af7e-5369-49fb-a354-925c3107b94f/Untitled.png)
+![Untitled (19)](https://user-images.githubusercontent.com/30318926/132158235-7857a92a-fcc7-4946-8b61-87e745119cbb.png)
 
 ### Cross Entropy Loss
 
@@ -99,7 +99,7 @@
 
 - 드디어 notebook 형식에서 마구잡이식으로 하던 방식을 벗어났다! → 쉘에서 명령어만 바꾸면 돌아가게끔 프로젝트 형식으로 변환 성공
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/607103cb-faa1-424f-b517-f23d3e784a2c/Untitled.png)
+![Untitled (20)](https://user-images.githubusercontent.com/30318926/132158244-989c60d4-c041-4cac-a7c3-fe71cbfe03fd.png)
 
 - 개인적으로 이것저것 시도해 볼 수 있어서 좋았다.
 - 성능이 올라가는 모습을 보면서 성장하는 느낌을 받았다.
